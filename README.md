@@ -132,19 +132,7 @@ Strong problem-solving foundation that supports ML implementation skills.
 ✅ RAG Pipelines               ✅ Agentic AI Workflows
 ```
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSharma2457&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AdityaSharma2457&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF)
-
-</div>
-
----
 
 ## 🎯 Currently Learning
 
